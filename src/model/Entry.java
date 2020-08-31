@@ -32,7 +32,9 @@ public class Entry {
             Collections.addAll(phoneNumbers, phone);
         }
     }
-
+        /*
+        Alle Informationen
+         */
     public String[][] allInformation() {
         String[][] information = new String[2][];
 
